@@ -1,0 +1,5 @@
+size(1500,900)
+img = loadImage('NOOB.png')
+image(img, 0,0)
+img1 = loadImage('Noob1.jpg')
+image(img1, 750,400)
